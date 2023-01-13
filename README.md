@@ -20,6 +20,8 @@ The MAX score is intended to provide urban planners and GIS professionals with a
 
 To use the MAX Index, you will need to have ArcMap 10.x or ArcGIS Pro installed on your computer. The tool can be run on your own data or on sample data that is provided with the tool.
 
+Comming soon: "MAX Index - Getting Started" pdf will be included to walk you through initial set up and deployment of the MAX Index. 
+
 ## Customization
 
 The MAX Index tool is designed to be flexible and customizable. You can change the inputs, scoring mechanism, etc to suit your community. You can also fork the code on github, and make your own changes to the tool using Python. 
