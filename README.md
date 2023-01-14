@@ -2,7 +2,7 @@
 
 The MAX Index is a tool for measuring the level of multimodal accessibility in a given area. It can be run as a tool in ArcGIS or ArcGIS Pro and analyzes various data sources to determine a total score, or MAX score, for an area. The data sources used include:
 
-- Bike Lane data
+- Bike Lane Data
 - Bus Headway Data
 - Volume to Capacity Ratio Data
 - Level of Service Data
@@ -19,6 +19,8 @@ The MAX score is intended to provide urban planners and GIS professionals with a
 ## Getting Started
 
 To use the MAX Index, you will need to have ArcMap 10.x or ArcGIS Pro installed on your computer. The tool can be run on your own data or on sample data that is provided with the tool.
+
+Comming soon: "MAX Index - Getting Started" pdf will be included to walk you through initial set up and deployment of the MAX Index. 
 
 ## Customization
 
